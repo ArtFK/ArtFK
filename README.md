@@ -21,7 +21,7 @@ Frontend Engineer at [codafish GmbH](https://codafish.net), currently expanding 
 
 ## 📫 Get in touch
 
-<a href="https://www.linkedin.com/in/tu-usuario" target="_blank">LinkedIn</a> · <a href="https://github.com/ArtFK" target="_blank">GitHub</a>
+<a href="https://www.linkedin.com/in/arturofernandezknieling/" target="_blank">LinkedIn</a> · <a href="https://github.com/ArtFK" target="_blank">GitHub</a>
 
 ---
 
