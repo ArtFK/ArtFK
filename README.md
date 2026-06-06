@@ -9,6 +9,7 @@ Frontend Engineer at [codafish GmbH](https://codafish.net), currently expanding 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Zoho](https://img.shields.io/badge/Zoho-E42527?style=flat&logo=zoho&logoColor=white)
+![Plesk](https://img.shields.io/badge/Plesk-52BBE6?style=flat&logo=plesk&logoColor=white)
 
 **Learning on my own**
 
